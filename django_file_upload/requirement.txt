@@ -1,0 +1,4 @@
+# requirement.txt
+# Django latest version
+Django==3.2.4
+pillow>=8.0
