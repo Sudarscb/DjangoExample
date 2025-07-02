@@ -20,7 +20,7 @@ from django.urls import path
 from django.conf import settings
 from django.urls.conf import include
 from django.views.static import serve
-
+#Added on 02-07 to learn GIT & GIT Hub
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('products/', include('product.urls')),
